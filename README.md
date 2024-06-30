@@ -1,4 +1,4 @@
-# progarden_hadware
+# Progarden Hadware
 Hydroponic Solution for Home, Restaurans and Company Lobby's
 
 For this solution we user ESP8266
